@@ -129,9 +129,6 @@ header .shop {
   border-radius: 20px;
 }
 
-.bgblock .coins {
-  z-index: 100;
-}
 .contentvideo .alpha-raffle {
   position: relative;
 }
@@ -145,7 +142,7 @@ header .shop {
   position: absolute;
   top: 0;
   left: -30px;
-  opacity: 0.85;
+  opacity: 0.92;
 }
 
 div.contentvideo > div > p:nth-child(2) {
@@ -208,7 +205,8 @@ div.contentvideo > div > p:nth-child(6) {
   max-width: 68px;
   position: absolute;
   right: 33px;
-  top: -8px;
+  top: -20px;
+  z-index: 100;
 }
 .logo-info .log {
   max-width: 320px;
