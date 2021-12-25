@@ -389,9 +389,16 @@ div.main > div:nth-child(4) > div.textcontent > p:nth-child(6) > b > img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+@media screen and (min-width: 1101px) {
+  .parters ul {
+    margin-left: 100px;
+  }
+}
+
 .parters ul li {
   margin: 20px;
 }
+
 .parters ul li img {
   height: 80px;
   width: 100%;
@@ -1200,8 +1207,4 @@ textarea:-ms-input-placeholder {
 
 textarea::placeholder {
   color: #a59a9a;
-}
-
-.parters ul {
-  margin-left: 100px;
 }
