@@ -80,7 +80,7 @@ header {
   width: 100%;
   left: 0;
   top: 0;
-  z-index: 1;
+  z-index: 1000;
 }
 header .logo {
   flex: 0 0 200px;
@@ -882,7 +882,7 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
   display: none !important;
 }
 @media screen and (max-width: 1100px) {
-  .leftfixed {
+  .hide-lg {
     display: none;
   }
   .main {
@@ -897,6 +897,8 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 30px 0;
+    height: 500px;
   }
   .contentvideo {
     margin: 0;
@@ -979,14 +981,17 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
   header .laung {
     display: none;
   }
-  header {
-    height: 37px;
-  }
+  /* header {
+    height: 50px;
+  } */
   .right-menu > a {
     padding: 2px 30px;
   }
 }
 @media screen and (max-width: 600px) {
+  .videocontent {
+    height: 560px;
+  }
   .contentvideo h2 {
     font-size: 37px;
     height: 39px;
@@ -1533,7 +1538,7 @@ body {
 .swiper-button-next {
   position: absolute;
   top: 50%;
-  right: -25px;
+  right: -20px;
   background-color: #505861;
   width: 45px;
   height: 45px;
@@ -1547,7 +1552,7 @@ body {
 .swiper-button-prev {
   position: absolute;
   top: 50%;
-  left: -25px;
+  left: -20px;
   background-color: #505861;
   width: 45px;
   height: 45px;
