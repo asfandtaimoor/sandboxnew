@@ -1524,3 +1524,32 @@ body {
 .mySwiper .swiper-slide-thumb-active img {
   border: 3px solid white;
 }
+
+.swiper-button-next {
+  position: absolute;
+  top: 50%;
+  right: -25px;
+  background-color: #505861;
+  width: 45px;
+  height: 45px;
+  color: #fff;
+  border-radius: 50%;
+  padding: 10px 0;
+}
+.swiper-button-next::after {
+  font-size: 25px;
+}
+.swiper-button-prev {
+  position: absolute;
+  top: 50%;
+  left: -25px;
+  background-color: #505861;
+  width: 45px;
+  height: 45px;
+  color: #fff;
+  border-radius: 50%;
+  padding: 10px 0;
+}
+.swiper-button-prev::after {
+  font-size: 25px;
+}

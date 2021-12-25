@@ -297,31 +297,34 @@
       <!-- Season one best movement -->
       <section class="best-moment w-100 mw-1212 px-3">
         <h1 class="title">ALPHA SEASON 1 BEST MOMENTS</h1>
-        <div
-          style="
-            --swiper-navigation-color: #fff;
-            --swiper-pagination-color: #fff;
-          "
-          class="swiper mySwiper2"
-        >
-          <div class="swiper-wrapper w-100">
-            <div class="swiper-slide">
-              <img class="w-100" src="./files/img/all-season-1.webp" />
-            </div>
-            <div class="swiper-slide">
-              <img class="w-100" src="./files/img/all-season-2.webp" />
-            </div>
-            <div class="swiper-slide">
-              <img class="w-100" src="./files/img/all-season-3.webp" />
-            </div>
-            <div class="swiper-slide">
-              <img class="w-100" src="./files/img/all-season-4.webp" />
+
+        <div class="position-relative px-5">
+          <div
+            style="
+              --swiper-navigation-color: #fff;
+              --swiper-pagination-color: #fff;
+            "
+            class="swiper mySwiper2"
+          >
+            <div class="swiper-wrapper w-100">
+              <div class="swiper-slide">
+                <img class="w-100" src="./files/img/all-season-1.webp" />
+              </div>
+              <div class="swiper-slide">
+                <img class="w-100" src="./files/img/all-season-2.webp" />
+              </div>
+              <div class="swiper-slide">
+                <img class="w-100" src="./files/img/all-season-3.webp" />
+              </div>
+              <div class="swiper-slide">
+                <img class="w-100" src="./files/img/all-season-4.webp" />
+              </div>
             </div>
           </div>
           <div class="swiper-button-next"></div>
           <div class="swiper-button-prev"></div>
         </div>
-        <div thumbsSlider="" class="swiper mySwiper">
+        <div thumbsSlider="" class="swiper mySwiper px-4">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <img src="./files/img/all-season-button-1.webp" />
@@ -1015,6 +1018,10 @@
         },
         thumbs: {
           swiper: swiper,
+        },
+        effect: 'fade',
+        fadeEffect: {
+          crossFade: true,
         },
       });
     </script>
