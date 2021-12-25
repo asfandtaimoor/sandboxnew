@@ -660,6 +660,7 @@ div.modal.one-modal .walletconnect {
   padding: 10px 120px 10px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .cont {
   padding: 19px;
@@ -671,7 +672,7 @@ div.modal.one-modal .walletconnect {
   background: #1d232a;
   margin-bottom: 20px;
   border-radius: 10px;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 .cont svg {
   width: 50px;
