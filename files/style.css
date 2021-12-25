@@ -175,6 +175,10 @@ header .shop {
   margin-bottom: 40px;
 }
 @media screen and (max-width: 450px) {
+  .contentvideo .alpha-raffle img {
+    padding-top: 5px;
+    height: 44px;
+  }
   .contentvideo .alpha-raffle p {
     padding-top: 5px;
   }
