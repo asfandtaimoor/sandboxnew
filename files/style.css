@@ -1350,12 +1350,15 @@ textarea::placeholder {
     height: 270px;
   }
 }
+
 .season-card img {
-  width: 150px;
+  height: 105px;
+  width: auto;
+  margin: auto;
 }
 @media screen and (max-width: 900px) {
   .season-card img {
-    width: 100px;
+    height: 100px;
   }
 }
 .season-card h2 {
