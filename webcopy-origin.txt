@@ -1,0 +1,200 @@
+Uri: https://gamesandbox.org/
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\index.htm
+Content Type: text/html
+
+Uri: https://gamesandbox.org/files/style.css
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\style.css
+Content Type: text/css
+
+Uri: https://gamesandbox.org/files/img/favicon.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\favicon.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\css2.css
+Content Type: text/css
+
+Uri: https://gamesandbox.org/files/img/TheSandboxLogo.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\TheSandboxLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/shopping-cart.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\shopping-cart.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/home-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\home-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/play-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\play-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/shop-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\shop-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/create-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\create-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/map-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\map-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/about-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\about-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/video/web-banner-211120-1.webmhd.webm
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\video\web-banner-211120-1.webmhd.webm
+Content Type: video/webm
+
+Uri: https://gamesandbox.org/files/img/Alpha_coins.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Alpha_coins.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/logo-alpha.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\logo-alpha.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/crown-icon.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\crown-icon.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/rhombus.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\rhombus.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/minimap.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\minimap.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/sand-icon.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\sand-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/Ticket.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Ticket.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/crown-logo.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\crown-logo.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/cards.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\cards.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/500rewards.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\500rewards.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_Snoop.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_Snoop.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_TWalkingD.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_TWalkingD.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/Logo_Adidas.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_Adidas.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_SCMP.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_SCMP.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_ASevenfold.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_ASevenfold.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_RHawtin.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_RHawtin.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_Smurfs.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_Smurfs.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_Hell_s_Kitchen.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_Hell_s_Kitchen.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_RCTycoon.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_RCTycoon.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_Deadmau5_small.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_Deadmau5_small.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_Atari.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_Atari.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/Logo_HomePartner_CareBears.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\Logo_HomePartner_CareBears.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/footer-banner.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\footer-banner.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/discord-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\discord-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/telegram-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\telegram-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/medium-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\medium-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/twitter-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\twitter-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/instagram-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\instagram-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/facebook-circle.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\facebook-circle.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/youtube.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/twitch.svg
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\twitch.svg
+Content Type: image/svg+xml
+
+Uri: https://gamesandbox.org/files/img/metamask-fox.c06f3a3e.html
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\metamask-fox.c06f3a3e.html
+Content Type: text/html
+
+Uri: https://gamesandbox.org/files/logo.js
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\logo.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://gamesandbox.org/files/script.js
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\script.js
+Content Type: application/javascript
+
+Uri: https://gamesandbox.org/files/img/bg-alpha.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\bg-alpha.png
+Content Type: image/png
+
+Uri: https://gamesandbox.org/files/img/footer-background.png
+File Name: C:\Downloaded Web Sites\sandboxgame\gamesandbox.org\files\img\footer-background.png
+Content Type: image/png
+
