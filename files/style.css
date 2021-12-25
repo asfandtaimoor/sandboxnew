@@ -1,3 +1,7 @@
+/* max widht */
+.mw-960 {
+  max-width: 960px;
+}
 /* global classes */
 
 .mt-10 {
@@ -871,7 +875,7 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
     display: none;
   }
   .main {
-    background: #1b2026;
+    /* background: #1b2026; */
   }
   /* .position-video {
     display: none;
@@ -1221,4 +1225,71 @@ textarea:-ms-input-placeholder {
 
 textarea::placeholder {
   color: #a59a9a;
+}
+
+.alpha-closed-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: white;
+}
+
+.alpha-closed-wrapper h2 {
+  font-size: 20px;
+  line-height: 24px;
+  color: #00b0ff;
+  text-align: left;
+  margin-top: 23px;
+  margin-bottom: 11px;
+  font-weight: bold;
+}
+.alpha-closed-wrapper h1 {
+  font-size: 22px;
+  line-height: 24px;
+  color: #fff;
+  text-align: left;
+  margin-bottom: 6px;
+  margin-top: 30px;
+  font-weight: bolder;
+}
+.alpha-closed-wrapper .sendus {
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  text-align: left;
+  max-width: 436px;
+  font-weight: 500;
+}
+.alpha-closed-wrapper .alpha-log {
+  width: 311px;
+}
+.alpha-closed-wrapper button {
+  background-color: #0084ff;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  border: none;
+  text-transform: capitalize;
+  cursor: pointer;
+  font-size: 16px;
+  /* min-width: 250px; */
+  /* height: 39px; */
+  border-radius: 25px;
+  padding: 8px 24px;
+  font-weight: bolder;
+}
+
+@media screen and (max-width: 1000px) {
+  .alpha-closed-wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+  .alpha-closed-wrapper h1,
+  .alpha-closed-wrapper h2,
+  .alpha-closed-wrapper p,
+  .alpha-closed-wrapper .sendus {
+    text-align: center;
+  }
 }
