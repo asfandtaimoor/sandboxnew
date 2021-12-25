@@ -1344,7 +1344,7 @@ textarea::placeholder {
   align-items: space-between;
   height: 100%;
 } */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   .season-card {
     width: 200px;
     height: 270px;
