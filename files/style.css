@@ -449,10 +449,9 @@ div.main > div:nth-child(4) > div.textcontent > p:nth-child(6) > b > img {
   align-items: center;
 }
 .imgbg {
-  flex: 0 0 60%;
+  width: 100%;
 }
 .textbg {
-  flex: 0 0 40%;
 }
 .textbg h2 {
   font-size: 25px;
@@ -1053,16 +1052,19 @@ header .shop {
   padding: 0;
 }
 .imgbg {
-  flex: 0 0 200px;
+  /* flex: 0 0 200px; */
   height: 100%;
+  max-width: 588px;
 }
 .imgbg img {
-  height: 200px;
+  height: 250px;
   object-fit: cover;
   object-position: right;
 }
 .textbg {
-  padding: 20px;
+  padding: 20px 0 20px 5px;
+  width: 330px;
+  max-width: 100%;
 }
 
 @media screen and (max-width: 400px) {
