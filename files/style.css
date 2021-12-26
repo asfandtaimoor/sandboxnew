@@ -409,6 +409,7 @@ div.main > div:nth-child(4) > div.textcontent > p:nth-child(6) > b > img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+
 @media screen and (min-width: 1101px) {
   .parters ul {
     margin-left: 100px;
@@ -1558,4 +1559,11 @@ body {
 }
 .swiper-button-prev::after {
   font-size: 25px;
+}
+
+/* footer */
+@media screen and (max-width: 1000px) {
+  footer .uls {
+    text-align: center;
+  }
 }
