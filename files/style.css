@@ -231,7 +231,7 @@ div.contentvideo > div > p:nth-child(6) {
   margin-bottom: 20px;
 }
 .contentvideo .twobutton a {
-  padding: 8px 50px;
+  padding: 4px 39px;
   border-radius: 99px;
   font-weight: 600;
   transition: background-color 0.4s, color 0.4s, border 0.4s;
@@ -1011,7 +1011,7 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
     align-items: center;
   }
   .contentvideo .twobutton a {
-    max-width: 250px;
+    max-width: 210px;
     display: flex;
     align-items: center;
     justify-content: center;
