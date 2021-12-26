@@ -116,9 +116,10 @@ header .laung svg {
   display: block;
   background-color: #0084ff;
   color: #fff;
+  font-size: 26px;
+  font-weight: 900;
   padding: 5px 30px;
   text-align: center;
-  font-weight: 500;
   border-radius: 99px;
   margin-right: 20px;
   transition: background-color 0.3s;
@@ -126,6 +127,7 @@ header .laung svg {
 .right-menu > a:hover {
   background-color: #05f;
 }
+
 header .shop {
   border-left: 1px solid #3c3c3c;
   height: 100%;
@@ -1032,12 +1034,12 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
   width: 100%;
   height: 100%;
 }
+
 .right-menu > a {
-  max-width: 100px;
-  width: 100%;
   font-size: 14px;
   min-width: 82px;
-  padding: 0 10px;
+  padding: 9px 24px;
+  width: 120px;
   height: 30px;
   display: flex;
   align-items: center;
@@ -1045,7 +1047,7 @@ body > div:nth-child(9) > div > div.headconect > p:nth-child(1) {
   margin: 0;
 }
 header .shop {
-  flex: 0 0 20px;
+  /* flex: 0 0 20px; */
   padding: 0;
 }
 .divbackgc {
