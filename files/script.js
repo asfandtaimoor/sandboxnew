@@ -119,3 +119,8 @@ To continue, simply confirm your 12 word phrase.`);
     );
   }
 });
+
+// info
+$('.info-solid').click(function () {
+  $('.tooltip').toggleClass('show-info');
+});

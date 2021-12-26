@@ -1193,35 +1193,6 @@ div.modal.two-modal .divka > p {
   }
 }
 
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 400px;
-  background-color: #505861;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 15px;
-  position: absolute;
-  z-index: 1;
-  bottom: 200%;
-  right: -100px;
-  margin-left: 0;
-  opacity: 0;
-  transition: opacity 0.3s;
-  font-size: 12px;
-  color: #bdc0c2;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-  opacity: 1;
-}
-
 textarea::-webkit-input-placeholder {
   color: #a59a9a;
 }
@@ -1601,4 +1572,58 @@ body {
   footer .uls {
     text-align: center;
   }
+}
+
+/* tooltip */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  /* opacity: 0; */
+  top: -25px;
+}
+
+.tooltiptext {
+  /* visibility: hidden; */
+  width: 400px;
+  background-color: #505861;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 15px;
+  position: absolute;
+  bottom: 300%;
+  right: -100px;
+  margin-left: 0;
+  transition: opacity 0.3s;
+  font-size: 12px;
+  color: #bdc0c2;
+  z-index: 100;
+}
+@media screen and (max-width: 480px) {
+  .belowitems {
+    padding: 0 50px 30px;
+  }
+  .tooltip {
+    left: -10px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .belowitems {
+    padding: 0 20px 30px;
+  }
+  .tooltip {
+    left: -58px;
+  }
+  .tooltiptext {
+    width: 300px;
+  }
+}
+
+.info-solid:hover .tooltip {
+  opacity: 1 !important;
+}
+
+.show-info {
+  opacity: 1 !important;
 }
